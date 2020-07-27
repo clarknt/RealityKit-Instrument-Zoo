@@ -9,5 +9,5 @@
 import RealityKit
 
 struct InstrumentComponent: Component {
-    
+    var audioFile: String
 }
